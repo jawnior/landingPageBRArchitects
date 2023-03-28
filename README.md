@@ -1,7 +1,9 @@
 # Landing Page BR Architects
 
-A static website written in HTML and CSS.
+A static landing page. Live demo [_here_](https://subtle-concha-5061af.netlify.app/).
 
-## Link
+## Built with
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/css/default.asp)
 
-https://subtle-concha-5061af.netlify.app/
+
