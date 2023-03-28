@@ -139,7 +139,7 @@ nav a:hover {
 }
 
 .about-grid-item .name {
-    font-size: 15px;
+    font-size: 18px;
     margin-top: 7px;
 }
 
@@ -188,7 +188,7 @@ nav a:hover {
 .contact-form input {
     margin: 5px auto;
     width: 50%;
-
+    border: 1px solid lightgray;
 }
 
 .contact-form button {
